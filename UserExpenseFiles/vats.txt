@@ -1,4 +1,0 @@
-1.bread,30.0
-2.butter,35.0
-3.water,20.0
-4.milk,23.0
